@@ -1,7 +1,4 @@
-<<<<<<< HEAD
+
 greenlet==3.2.3
 SQLAlchemy==2.0.41
 typing_extensions==4.14.0
-=======
-sqlalchemy
->>>>>>> 23eafaf9cbee2a7b4fbe4d6f1190274a035ebed8
