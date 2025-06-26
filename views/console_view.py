@@ -1,5 +1,9 @@
 def show_menu():
+<<<<<<< HEAD
     print("\n=== Biblioteca ===")
+=======
+    print("\n=== Biblioteca MVC ===")
+>>>>>>> 23eafaf9cbee2a7b4fbe4d6f1190274a035ebed8
     print("1. Agregar autor")
     print("2. Agregar editorial")
     print("3. Agregar libro")
